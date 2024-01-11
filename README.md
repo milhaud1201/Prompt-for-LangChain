@@ -7,7 +7,7 @@ This GitHub project is dedicated to prompt for langchain. Our goal is to collabo
 
 |Subject|Description|Model|Contributed by|
 |----------|----------|----------|----------|
-|[Korean Text Image](https://github.com/milhaud1201/Prompt-for-LangChain/blob/main/index.md#korean-text-image)|한글 폰트 스타일을 적용한 한글 텍스트 이미지 생성|ChatGPT-4|[@milhaud1201](https://github.com/milhaud1201)|
+|[Korean Text Image](https://github.com/milhaud1201/Prompt-for-LangChain/blob/main/prompts/korean-text-image.md)|한글 폰트 스타일을 적용한 한글 텍스트 이미지 생성|ChatGPT-4|[@milhaud1201](https://github.com/milhaud1201)|
 
 ### Education
 
