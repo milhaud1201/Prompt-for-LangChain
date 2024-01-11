@@ -5,9 +5,9 @@ This GitHub project is dedicated to prompt for langchain. Our goal is to collabo
 
 ### Image generation
 
-|Subject|Model|Contributed by|
-|----------|----------|----------|
-|[Korean Text Image](https://github.com/milhaud1201/Prompt-for-LangChain/blob/main/index.md#korean-text-image)|ChatGPT-4|[@milhaud1201](https://github.com/milhaud1201)|
+|Subject|Description|Model|Contributed by|
+|----------|----------|----------|----------|
+|[Korean Text Image](https://github.com/milhaud1201/Prompt-for-LangChain/blob/main/index.md#korean-text-image)|설정된 폰트 스타일을 적용하여 한글이 포함된 이미지를 그립니다.|ChatGPT-4|[@milhaud1201](https://github.com/milhaud1201)|
 
 ### Education
 
