@@ -5,11 +5,13 @@ This GitHub project is dedicated to prompt for langchain. Our goal is to collabo
 
 ## Image generation
 
-|Subject|Model|Contributed by|
-|----------|----------|----------|
-|Korean Text Image|ChatGPT-4|@milhaud1201|
+### Korean Text Image
 
-```
+|Model|Contributed by|
+|----------|----------|
+|ChatGPT-4|@milhaud1201|
+
+```python
 # Korean Text Image
 설정된 폰트 스타일을 적용하여 한글이 포함된 이미지를 그립니다.
 
