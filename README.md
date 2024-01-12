@@ -21,6 +21,11 @@ This GitHub project is dedicated to prompt for langchain. Our goal is to collabo
 |----------|----------|----------|----------|
 |[Korean Text Image](./prompts/korean-text-image.md)|한글 폰트 스타일을 적용한 한글 텍스트 이미지 생성|ChatGPT-4|[@milhaud1201](https://github.com/milhaud1201)|
 
+### Programming
+|Subject|Description|Model|Contributed by|
+|----------|----------|----------|----------|
+|[Building Website](./prompts/building-website.md)|간단한 웹사이트 빌드를 위한 index.html, css를 생성|ChatGPT-4|[@milhaud1201](https://github.com/milhaud1201)|
+
 ### Education
 
 ### Data analysis
